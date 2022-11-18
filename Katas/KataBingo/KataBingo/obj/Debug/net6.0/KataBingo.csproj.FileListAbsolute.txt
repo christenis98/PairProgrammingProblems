@@ -1,0 +1,15 @@
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataBingo\KataBingo\bin\Debug\net6.0\KataBingo.exe
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataBingo\KataBingo\bin\Debug\net6.0\KataBingo.deps.json
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataBingo\KataBingo\bin\Debug\net6.0\KataBingo.runtimeconfig.json
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataBingo\KataBingo\bin\Debug\net6.0\KataBingo.dll
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataBingo\KataBingo\bin\Debug\net6.0\KataBingo.pdb
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataBingo\KataBingo\obj\Debug\net6.0\KataBingo.csproj.AssemblyReference.cache
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataBingo\KataBingo\obj\Debug\net6.0\KataBingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataBingo\KataBingo\obj\Debug\net6.0\KataBingo.AssemblyInfoInputs.cache
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataBingo\KataBingo\obj\Debug\net6.0\KataBingo.AssemblyInfo.cs
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataBingo\KataBingo\obj\Debug\net6.0\KataBingo.csproj.CoreCompileInputs.cache
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataBingo\KataBingo\obj\Debug\net6.0\KataBingo.dll
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataBingo\KataBingo\obj\Debug\net6.0\refint\KataBingo.dll
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataBingo\KataBingo\obj\Debug\net6.0\KataBingo.pdb
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataBingo\KataBingo\obj\Debug\net6.0\KataBingo.genruntimeconfig.cache
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataBingo\KataBingo\obj\Debug\net6.0\ref\KataBingo.dll
