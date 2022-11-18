@@ -1,0 +1,15 @@
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataFizzBuzz\KataFizzBuzz\bin\Debug\net6.0\KataFizzBuzz.exe
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataFizzBuzz\KataFizzBuzz\bin\Debug\net6.0\KataFizzBuzz.deps.json
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataFizzBuzz\KataFizzBuzz\bin\Debug\net6.0\KataFizzBuzz.runtimeconfig.json
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataFizzBuzz\KataFizzBuzz\bin\Debug\net6.0\KataFizzBuzz.dll
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataFizzBuzz\KataFizzBuzz\bin\Debug\net6.0\KataFizzBuzz.pdb
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataFizzBuzz\KataFizzBuzz\obj\Debug\net6.0\KataFizzBuzz.csproj.AssemblyReference.cache
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataFizzBuzz\KataFizzBuzz\obj\Debug\net6.0\KataFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataFizzBuzz\KataFizzBuzz\obj\Debug\net6.0\KataFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataFizzBuzz\KataFizzBuzz\obj\Debug\net6.0\KataFizzBuzz.AssemblyInfo.cs
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataFizzBuzz\KataFizzBuzz\obj\Debug\net6.0\KataFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataFizzBuzz\KataFizzBuzz\obj\Debug\net6.0\KataFizzBuzz.dll
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataFizzBuzz\KataFizzBuzz\obj\Debug\net6.0\refint\KataFizzBuzz.dll
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataFizzBuzz\KataFizzBuzz\obj\Debug\net6.0\KataFizzBuzz.pdb
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataFizzBuzz\KataFizzBuzz\obj\Debug\net6.0\KataFizzBuzz.genruntimeconfig.cache
+C:\Users\Cristian.Anei\OneDrive - Solera Holdings, Inc\Desktop\KataFizzBuzz\KataFizzBuzz\obj\Debug\net6.0\ref\KataFizzBuzz.dll
